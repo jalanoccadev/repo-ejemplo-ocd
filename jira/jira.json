@@ -1,0 +1,32 @@
+{
+    "datosOCD": {
+        "ticketScrum": "[ticketScrum]",
+        "ticketOCD": "[ticketOCD]"
+    },
+    "responsables": {
+        "reporter": "[reporter]",
+        "seguridad": "[seguridad]",
+        "qe": "[qe]",
+        "clQe": "[clQe]",
+        "clDev": "[clDev]",
+        "lt": "[lt]",
+        "po": "[po]",
+        "opsGobierno": "[opsGobierno]",
+        "grupoAgileOps": "[grupoAgileOps]"
+    },
+    "datos": {
+        "summary": "[summary]",
+        "description": "[description]",
+        "sustento": "[sustento]",
+        "origenTicket": "[origenTicket]",
+        "nroTicket": "[nroTicket]",
+        "tipoRequerimiento": "[tipoRequerimiento]",
+        "diagramaArquitectura": "[diagramaArquitectura]",
+        "diagramaInfraestructura": "[diagramaInfraestructura]",
+        "instruccionesCert": "[instruccionesCert]",
+        "instruccionesProd": "[instruccionesProd]",
+        "instruccionesReversion": "[instruccionesReversion]",
+        "tipoRatificacion": "[tipoRatificacion]",
+        "indisponibilidadCanal": "[indisponibilidadCanal]"
+    }
+}
