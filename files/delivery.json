@@ -1,3 +1,10 @@
 {
-    "param": "ejemplo1"
+  "releaseTag" : "RC-AUTOGENERADO",
+  "moveJobs" : "true",
+  "repos" : [ {
+    "name" : "job1",
+    "cert" : "",
+    "prod" : "",
+    "wait" : true
+  } ]
 }
