@@ -1,32 +1,32 @@
 {
-    "datosOCD": {
-        "ticketScrum": "[ticketScrum]",
-        "ticketOCD": "[ticketOCD]"
-    },
-    "responsables": {
-        "reporter": "[reporter]",
-        "seguridad": "[seguridad]",
-        "qe": "[qe]",
-        "clQe": "[clQe]",
-        "clDev": "[clDev]",
-        "lt": "[lt]",
-        "po": "[po]",
-        "opsGobierno": "[opsGobierno]",
-        "grupoAgileOps": "[grupoAgileOps]"
-    },
-    "datos": {
-        "summary": "[summary]",
-        "description": "[description]",
-        "sustento": "[sustento]",
-        "origenTicket": "[origenTicket]",
-        "nroTicket": "[nroTicket]",
-        "tipoRequerimiento": "[tipoRequerimiento]",
-        "diagramaArquitectura": "[diagramaArquitectura]",
-        "diagramaInfraestructura": "[diagramaInfraestructura]",
-        "instruccionesCert": "[instruccionesCert]",
-        "instruccionesProd": "[instruccionesProd]",
-        "instruccionesReversion": "[instruccionesReversion]",
-        "tipoRatificacion": "[tipoRatificacion]",
-        "indisponibilidadCanal": "[indisponibilidadCanal]"
-    }
+  "datosOCD" : {
+    "ticketScrum" : "SCDPDP-12345",
+    "ticketOCD" : "SCRUM-5678"
+  },
+  "responsables" : {
+    "reporter" : "juan.perez",
+    "seguridad" : "maria.lopez",
+    "qe" : "carlos.gomez",
+    "clQe" : "ana.torres",
+    "clDev" : "luis.martinez",
+    "lt" : "sofia.ramirez",
+    "po" : "diego.sanchez",
+    "opsGobierno" : "laura.vargas",
+    "grupoAgileOps" : "agile.ops.team"
+  },
+  "datos" : {
+    "summary" : "Implementar nueva funcionalidad de autenticación",
+    "description" : "Se requiere implementar una nueva funcionalidad de autenticación multifactor para mejorar la seguridad de la aplicación.",
+    "sustento" : "La implementación de esta funcionalidad es crucial para cumplir con los estándares de seguridad y proteger los datos de los usuarios.",
+    "origenTicket" : "Solicitud de mejora de seguridad",
+    "nroTicket" : "SEC-7890",
+    "tipoRequerimiento" : "Mejora de seguridad",
+    "diagramaArquitectura" : "http://link-a-diagrama.com/diagrama.png",
+    "diagramaInfraestructura" : "http://link-a-diagrama.com/infraestructura.png",
+    "instruccionesCert" : "Seguir las mejores prácticas de seguridad durante la implementación.",
+    "instruccionesProd" : "Realizar pruebas exhaustivas antes de la implementación en producción.",
+    "instruccionesReversion" : "Tener un plan de reversión listo en caso de fallos.",
+    "tipoRatificacion" : "Aprobación de seguridad",
+    "indisponibilidadCanal" : "No se espera indisponibilidad del canal durante la implementación."
+  }
 }
