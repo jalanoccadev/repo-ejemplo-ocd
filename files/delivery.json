@@ -6,15 +6,5 @@
     "cert" : "",
     "prod" : "",
     "wait" : true
-  }, {
-    "name" : "job2",
-    "cert" : "",
-    "prod" : "",
-    "wait" : false
-  }, {
-    "name" : "job3",
-    "cert" : "",
-    "prod" : "",
-    "wait" : true
   } ]
 }
