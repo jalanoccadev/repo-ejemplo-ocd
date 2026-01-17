@@ -1,3 +1,13 @@
 {
-    "param": "ejemplo1"
+  "nameOcdRc" : "RC-AUTOGENERADO",
+  "moveJobs" : "true",
+  "repos" : [ {
+    "name" : "job1",
+    "env" : [ ],
+    "wait" : true
+  }, {
+    "name" : "job2",
+    "env" : [ ],
+    "wait" : false
+  } ]
 }
