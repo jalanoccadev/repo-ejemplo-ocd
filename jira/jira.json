@@ -1,32 +1,32 @@
 {
   "datosOCD" : {
-    "ticketOCD" : "OCD-XXXXX",
-    "ticketScrum" : "TEST-111111"
+    "ticketScrum" : "TEST-111111",
+    "ticketOCD" : "OCD-XXXXX"
+  },
+  "responsables" : {
+    "reporter" : "7juan.perez",
+    "seguridad" : "7maria.lopez",
+    "qe" : "7carlos.gomez",
+    "clQe" : "7ana.torres",
+    "clDev" : "7luis.martinez",
+    "lt" : "7sofia.ramirez",
+    "po" : "7diego.sanchez",
+    "opsGobierno" : "7laura.vargas",
+    "grupoAgileOps" : "7agile.ops.team"
   },
   "datos" : {
+    "summary" : "Implementar nueva funcionalidad de autenticación",
     "description" : "Se requiere implementar una nueva funcionalidad de autenticación multifactor para mejorar la seguridad de la aplicación.",
+    "sustento" : "La implementación de esta funcionalidad es crucial para cumplir con los estándares de seguridad y proteger los datos de los usuarios.",
+    "origenTicket" : "Solicitud de mejora de seguridad",
+    "nroTicket" : "SEC-7890",
+    "tipoRequerimiento" : "Mejora de seguridad",
     "diagramaArquitectura" : "http://link-a-diagrama.com/diagrama.png",
     "diagramaInfraestructura" : "http://link-a-diagrama.com/infraestructura.png",
-    "indisponibilidadCanal" : "No se espera indisponibilidad del canal durante la implementación.",
     "instruccionesCert" : "Seguir las mejores prácticas de seguridad durante la implementación.",
     "instruccionesProd" : "Realizar pruebas exhaustivas antes de la implementación en producción.",
     "instruccionesReversion" : "Tener un plan de reversión listo en caso de fallos.",
-    "nroTicket" : "SEC-7890",
-    "origenTicket" : "Solicitud de mejora de seguridad",
-    "summary" : "Implementar nueva funcionalidad de autenticación",
-    "sustento" : "La implementación de esta funcionalidad es crucial para cumplir con los estándares de seguridad y proteger los datos de los usuarios.",
     "tipoRatificacion" : "Aprobación de seguridad",
-    "tipoRequerimiento" : "Mejora de seguridad"
-  },
-  "responsables" : {
-    "clDev" : "7luis.martinez",
-    "clQe" : "7ana.torres",
-    "grupoAgileOps" : "7agile.ops.team",
-    "lt" : "7sofia.ramirez",
-    "opsGobierno" : "7laura.vargas",
-    "po" : "7diego.sanchez",
-    "qe" : "7carlos.gomez",
-    "reporter" : "7juan.perez",
-    "seguridad" : "7maria.lopez"
+    "indisponibilidadCanal" : "No se espera indisponibilidad del canal durante la implementación."
   }
 }
