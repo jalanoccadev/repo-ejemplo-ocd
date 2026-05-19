@@ -1,7 +1,7 @@
 {
   "datosOCD" : {
     "ticketOCD" : "OCD-XXXXX",
-    "ticketScrum" : "SCDPDP-1"
+    "ticketScrum" : "TEST-111111"
   },
   "datos" : {
     "description" : "Se requiere implementar una nueva funcionalidad de autenticación multifactor para mejorar la seguridad de la aplicación.",
