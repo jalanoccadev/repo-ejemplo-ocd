@@ -1,18 +1,18 @@
 {
   "datosOCD" : {
     "ticketScrum" : "TEST-111111",
-    "ticketOCD" : "OCD-XXXXX"
+    "ticketOCD" : "SCRUM-5678"
   },
   "responsables" : {
-    "reporter" : "7juan.perez",
-    "seguridad" : "7maria.lopez",
-    "qe" : "7carlos.gomez",
-    "clQe" : "7ana.torres",
-    "clDev" : "7luis.martinez",
-    "lt" : "7sofia.ramirez",
-    "po" : "7diego.sanchez",
-    "opsGobierno" : "7laura.vargas",
-    "grupoAgileOps" : "7agile.ops.team"
+    "reporter" : "lkjlkajdlkasdalkgdfdfgdf523",
+    "seguridad" : "asdasldakjdalskdasdaw",
+    "qe" : "asdasdqweqwasda",
+    "clQe" : "asdasdasdasdasdadadasd",
+    "clDev" : "asdasdalkjdkljljljioqe",
+    "lt" : "alskjljalsdppoqiwepoqwe",
+    "po" : "alskjlkfjsdlkjfawe21313",
+    "opsGobierno" : "asdadasgxcvxcfhdfhyrtytr",
+    "grupoAgileOps" : "agile.ops.team"
   },
   "datos" : {
     "summary" : "Implementar nueva funcionalidad de autenticación",
